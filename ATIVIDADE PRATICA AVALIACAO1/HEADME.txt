@@ -1,9 +1,5 @@
-# Faculdade-atividadeWebservice
-Atividade Final Webservice
-
-
 1 - EXISTE UM DUMP DO DB NO DIRETORIO RAIZ CHAMADO faculdade_wsatividade1.sql
-2 - FaÃ§a a devida importaÃ§Ã£o do scheema no seu SGBD MYSQL
+2 - Faça a devida importação do scheema no seu SGBD MYSQL
 3 - EXISTEM 2 (dois) diretorios de projetos.
 	1 - APISERVER: 
 		ESTE DEVE SER EXECUTADO NA PORTA :8080
